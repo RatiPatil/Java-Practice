@@ -22,7 +22,3 @@ class c {
         System.out.println("C main method");
     }
 }
-
-class d {
-    // Empty class
-}
