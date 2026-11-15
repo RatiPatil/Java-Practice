@@ -9,8 +9,6 @@ public class Practice {
 		
 		if() {
 			
-			System.out.println("Ratikant");
-		}
 	}
 
 }
