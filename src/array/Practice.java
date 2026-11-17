@@ -13,8 +13,8 @@ public class Practice {
 		}
 		
 		for(int num : arr) {
-			
-			sout
+
+			System.out.println(num);
 		}
 		
 		
