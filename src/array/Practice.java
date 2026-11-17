@@ -15,7 +15,7 @@ public class Practice {
 		for(int num : arr) {
 
 			System.out.println(num);
-
+		}
 		
 		
 		
