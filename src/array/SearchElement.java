@@ -15,7 +15,7 @@ public class SearchElement {
             if (arr[i] == search) {
 
                 System.out.println("Element Found");
-                System.out.println("Inde
+                System.out.println("Index = " \
 
                 found = true;
                 break;
