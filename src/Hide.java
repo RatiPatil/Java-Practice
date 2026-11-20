@@ -7,7 +7,7 @@ abstract class ABC{
 public class Hide extends ABC{
 
 	@Override
-	void add() {
+	void add(
 		// TODO Auto-generated method stub
 		
 	}
