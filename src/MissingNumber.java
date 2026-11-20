@@ -21,7 +21,8 @@ public class MissingNumber {
 		}
 		
 		
-		int missingnumber = exceptedsum-actulsum ;
+		int missingnumber = actulsum - exceptedsum ;
+		System.out.println(missingnumber);
 		
 		
 		
