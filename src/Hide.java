@@ -8,14 +8,7 @@ public class Hide extends ABC{
 
 	@Override
 	void add(
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	void sub() {
-		// TODO Auto-generated method stub
-		
+		// TOD
 	}
 	
 	
