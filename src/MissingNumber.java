@@ -13,10 +13,15 @@ public class MissingNumber {
 		
 		for(int i = 0 ; i<arr.length; i++) {
 			
+			exceptedsum = exceptedsum+arr[i];
+			
+			
 			
 			
 		}
 		
+		
+		int missingnumber = exceptedsum-actulsum ;
 		
 		
 		
