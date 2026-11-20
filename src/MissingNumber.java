@@ -6,14 +6,14 @@ public class MissingNumber {
 		
 		int n = 6;
 		
-		int actulsum =  n*(n+1) / 2; 
+		int exceptedsum =  n*(n+1) / 2; 
 		
-		int exceptedsum = 0; 
+		int actualsum = 0; 
 		
 		
 		for(int i = 0 ; i<arr.length; i++) {
 			
-			exceptedsum = exceptedsum+arr[i];
+			actualsum= actualsum+arr[i];
 			
 			
 			
@@ -21,7 +21,7 @@ public class MissingNumber {
 		}
 		
 		
-		int missingnumber = actulsum - exceptedsum ;
+		int missingnumber =  exceptedsum - actualsum ;
 		System.out.println(missingnumber);
 		
 		
