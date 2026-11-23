@@ -11,8 +11,6 @@ public class StringPali {
 			
 			
 		}
-		
-		if(temp.equals(rev)) {
 			System.out.println("Palindrome");
 		}else {
 			System.out.println("Not Palindrome");
