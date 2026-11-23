@@ -11,7 +11,7 @@ public class StringPali {
 			
 			
 		}
-			System.out.println("Palindrome"
+			System.out.println("Pal
 		}else {
 			System.out.println("Not Palindrome");
 		}
