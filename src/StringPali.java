@@ -11,7 +11,7 @@ public class StringPali {
 			
 			
 		}
-		}elstem.out.println("Not Palindrome");
+		}elstem.out.println("Not Palindro
 		}
 		
 	}
