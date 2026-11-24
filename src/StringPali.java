@@ -11,8 +11,7 @@ public class StringPali {
 			
 			
 		}
-		}else
-			System.out.println("Not Palindrome");
+		}elstem.out.println("Not Palindrome");
 		}
 		
 	}
