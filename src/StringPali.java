@@ -12,7 +12,7 @@ public class StringPali {
 			
 		}
 			System.out.println
-		}else {
+		}else
 			System.out.println("Not Palindrome");
 		}
 		
