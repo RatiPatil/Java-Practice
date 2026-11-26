@@ -7,7 +7,6 @@ public class StringPali {
 		
 		String rev= "";
 		
-		for(int i = str.length()-
 			
 		
 
