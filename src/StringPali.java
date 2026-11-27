@@ -5,7 +5,7 @@ public class StringPali {
 		String str = "mom";
 		String temp = str;
 		
-		String rev= 
+		String r
 		
 			
 		
