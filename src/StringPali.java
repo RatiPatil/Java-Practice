@@ -1,6 +1,6 @@
 
 public class StringPali {
-	public stati
+	public sta
 		
 		
 		
