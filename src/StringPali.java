@@ -1,5 +1,5 @@
 
-public class StringPa
+public class Strin
 		
 		
 	
