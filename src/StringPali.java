@@ -1,6 +1,6 @@
 
 public class StringPali {
-	public static void main(Stri
+	public static void main(S
 		
 		
 		
