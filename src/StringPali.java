@@ -1,7 +1,5 @@
 
-public class StringPali {
-	
-		
+public class StringPa
 		
 		
 	
