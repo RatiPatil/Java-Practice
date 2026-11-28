@@ -1,5 +1,5 @@
 
-public class Strin
+public class 
 		
 		
 	
