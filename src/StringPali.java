@@ -4,7 +4,7 @@ public class StringPali {
 		
 		mp  ;
 		
-		S
+	
 			
 		
 
